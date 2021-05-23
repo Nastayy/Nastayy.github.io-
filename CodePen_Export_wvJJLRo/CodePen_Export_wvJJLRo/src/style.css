@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,400,600|Roboto:300,400,700');
+
+/* Background image */
+
+body {
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-literary-fresh-light-tones-rose-texture-background-image_200143.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Headings */
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Pattaya', sans-serif;
+  font-weight: 700;
+}
+
+/* Paragraph */
+
+p {
+  font-family: 'Pattaya', sans-serif;
+  font-weight: 400;
+}
+
+a.btn, button {
+  font-family: 'Pattaya', sans-serif;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
